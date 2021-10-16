@@ -19,4 +19,7 @@ The mission of CodeChef College Chapters is to build a robust Competitive Progra
 
 **For FAQs:** https://www.codechef.com/college-chapter/faq
 
+### Want to improve/contribute to this website?
+Just go through the **[contribution guidelines](https://github.com/ccsnu/ccsnu.github.io/blob/main/CONTRIBUTING.md)** to get started with your contributions.
+
 Happy Coding! :D
