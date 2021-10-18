@@ -1,6 +1,15 @@
 # CodeChef SNU Chapter Website Repository
 
-<p align="center"><img src="https://github.com/ccsnu/ccsnu.github.io/blob/main/CCSNU%20Logo.png" alt="Logo" width="200px" height="200px" hspace="10"/><br>
+<p align="center"><img src="https://github.com/ccsnu/ccsnu.github.io/blob/main/CCSNU%20Logo.png" alt="Logo" width="200px" height="200px" hspace="10"/>
+<p align="center">    
+    <img src=https://img.shields.io/github/license/ccsnu/ccsnu.github.io>  
+    <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
+    <img alt="Hacktoberfest" src="https://img.shields.io/github/hacktoberfest/2021/ccsnu/ccsnu.github.io">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ccsnu/ccsnu.github.io">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ccsnu/ccsnu.github.io">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/ccsnu/ccsnu.github.io">
+</p>
+<br>
 
 **Know more about this Chapter Here:** [CodeChef SNU Chapter](https://www.codechef.com/campus_chapter/CodeChef_SNU_Chapter)
 
