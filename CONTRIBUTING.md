@@ -2,6 +2,7 @@
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - [Reporting](https://github.com/ccsnu/ccsnu.github.io/issues) a bug
+- [Discussing](https://github.com/ccsnu/ccsnu.github.io/discussions) the current state of the code
 - [Submitting](https://github.com/ccsnu/ccsnu.github.io/pulls) fix.
 - Proposing new features
 - Becoming a maintainer
