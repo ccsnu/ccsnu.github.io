@@ -11,6 +11,8 @@
 </p>
 <br>
 
+## Website: [codechefsnu.codes](https://codechefsnu.codes)
+
 **Know more about this Chapter Here:** [CodeChef SNU Chapter](https://www.codechef.com/campus_chapter/CodeChef_SNU_Chapter)
 
 We are a technical chapter in Sister Nivedita University, Kolkata, aiming to fill students with the spirit of coding and to equip them in order for them to contribute significantly in the field of Computer Science and Engineering. Established on 2020, we work continuously to improve competitive coding culture at our campus
