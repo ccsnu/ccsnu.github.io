@@ -161,6 +161,11 @@
     font-size: 2.25rem;
   }
 
+  .u-section-1 .u-text-1,
+  .u-section-1 .u-text-2 {
+    text-align: center;
+  }
+
   .u-section-1 .u-image-1 {
     min-height: 315px;
   }
