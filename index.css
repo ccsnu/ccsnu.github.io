@@ -1966,8 +1966,7 @@
   }
 
   .u-section-9 .u-btn-2 {
-    margin-top: 116px;
-    margin-right: 50px;
+    margin: 10px auto 0;
   }
 
   .u-section-9 .u-layout-cell-3 {
@@ -2132,6 +2131,21 @@
 {
   color: #fff!important;
   background-color: #FF0000!important;
+}
+
+.fa-map-marker-alt
+{
+  font-size: 1.85rem;
+}
+
+.fa-envelope
+{
+  font-size: 1.85rem;
+}
+
+.fa-phone-alt
+{
+  font-size: 1.85rem;
 }
 
 .u-section-10 .u-icon-5 {
