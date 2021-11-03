@@ -1076,6 +1076,10 @@
 }
 
 @media (max-width: 767px) {
+
+  .u-section-5 {
+    overflow-x: hidden;
+  }
   .u-section-5 .u-sheet-1 {
     min-height: 1055px;
   }
@@ -1131,6 +1135,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-5 {
+    overflow-x: hidden;
+  }
+
   .u-section-5 .u-sheet-1 {
     min-height: 1352px;
   }
